@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tezcanwololo
-- 👀 I’m interested in ... Back end developer or may be front end also.
+- 👀 I’m interested in ...front end
 - 🌱 I’m currently learning ... to be a full stack developer and just for fun
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @daffuruzkey on instagram
